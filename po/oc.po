@@ -3,56 +3,57 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Cedric31 <cvalmary@yahoo.fr>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Xfce Panel Plugins\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-03 21:01+0200\n"
-"PO-Revision-Date: 2013-09-19 14:38+0000\n"
-"Last-Translator: Pjotr123 <pjotrvertaalt@gmail.com>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)\n"
+"PO-Revision-Date: 2013-12-05 07:21+0000\n"
+"Last-Translator: Cedric31 <cvalmary@yahoo.fr>\n"
+"Language-Team: Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: oc\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: ../panel-plugin/cmdspawn.c:166
 #, c-format
 msgid "Error in command \"%s\""
-msgstr "Fout in opdracht '%s'"
+msgstr "Error dins la comanda « %s »"
 
 #: ../panel-plugin/cmdspawn.c:168 ../panel-plugin/main.c:94
 msgid "Xfce Panel"
-msgstr "Xfce-werkbalk"
+msgstr "Panèl Xfce"
 
 #: ../panel-plugin/config_gui.c:81
 msgid "Command"
-msgstr "Opdracht"
+msgstr "Comanda"
 
 #: ../panel-plugin/config_gui.c:95
 msgid "Input the shell command to spawn, then press <Enter>"
-msgstr "Voer de uit te zaaien opdracht in, en druk dan op <Enter>"
+msgstr "Entrar la comanda shell de reprodusir e quichar sus <Entrada>"
 
 #: ../panel-plugin/config_gui.c:114
 msgid "Interval between 2 consecutive spawns"
-msgstr "Tussenpoze tussen twee achtereenvolgende uitzaaiingen"
+msgstr "Interval entre 2 execucions consecutivas"
 
 #: ../panel-plugin/config_gui.c:118
 msgid "Period (s) "
-msgstr "Tijdvak(ken) "
+msgstr "Periòde(s)"
 
 #: ../panel-plugin/config_gui.c:126
 msgid "Label"
-msgstr "Etiket"
+msgstr "Etiqueta"
 
 #: ../panel-plugin/config_gui.c:131
 msgid "Tick to display label"
-msgstr "Vink aan om etiket weer te geven"
+msgstr "Marcar per afichar l'etiqueta"
 
 #: ../panel-plugin/config_gui.c:140
 msgid "Input the plugin label, then press <Enter>"
-msgstr "Voer het invoegtoepassing-etiket in, en druk dan op <Enter>"
+msgstr "Entrar l'etiqueta de l'empeuton e quichar sus <Entrada>"
 
 #: ../panel-plugin/config_gui.c:143
 msgid "(genmon)"
@@ -60,16 +61,16 @@ msgstr "(genmon)"
 
 #: ../panel-plugin/config_gui.c:152
 msgid "Press to change font"
-msgstr "Druk in om lettertype te veranderen"
+msgstr "Clicar per cambiar la poliça"
 
 #: ../panel-plugin/config_gui.c:167
 msgid "(Default font)"
-msgstr "(Standaardlettertype)"
+msgstr "(Poliça per defaut)"
 
 #: ../panel-plugin/main.c:93
 #, c-format
 msgid "Could not run \"%s\""
-msgstr "Kon '%s' niet draaien"
+msgstr "Impossible d'executar « %s »"
 
 #: ../panel-plugin/main.c:574
 msgid ""
@@ -77,25 +78,25 @@ msgid ""
 "\n"
 "(c) 2004 Roger Seguin <roger_seguin@msn.com>\n"
 "(c) 2006 Julien Devemy <jujucece@gmail.com>"
-msgstr "Zaait periodiek een script/programma uit, vangt de uitvoer en toont het resulterende tekstsnoer in de werkbalk\n\n(c) 2004 Roger Seguin <roger_seguin@msn.com>\n(c) 2006 Julien Devemy <jujucece@gmail.com>"
+msgstr "%s %s - Monitor Generic\nExecuta ciclicament un escript/programa, captura sa sortida e aficha lo resultat dins lo panèl\n\n(c) 2004 Roger Seguin <roger_seguin@msn.com>\n(c) 2006 Julien Devemy <jujucece@gmail.com>"
 
 #: ../panel-plugin/main.c:578
 #, c-format
 msgid "%s %s - Generic Monitor"
-msgstr "%s %s - Generieke monitor"
+msgstr "%s %s - Monitor generic"
 
 #: ../panel-plugin/main.c:592
 msgid "Font Selection"
-msgstr "Lettertype-selectie"
+msgstr "Seleccion de la poliça"
 
 #: ../panel-plugin/main.c:637
 msgid "Configuration"
-msgstr "Configuratie"
+msgstr "Configuracion"
 
 #: ../panel-plugin/main.c:647 ../panel-plugin/genmon.desktop.in.h:1
 msgid "Generic Monitor"
-msgstr "Generieke monitor"
+msgstr "Monitor generic"
 
 #: ../panel-plugin/genmon.desktop.in.h:2
 msgid "Show output of a command."
-msgstr "Toon uitvoer van een opdracht. "
+msgstr "Afichar la sortida d'una comanda"
